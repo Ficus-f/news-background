@@ -7,11 +7,11 @@ By recommending relevant background information to users, we can help people bet
 
 
 ## 版本
-Python 3.6.5
-npm 3.5.2
-nginx 1.12.2
-jieba 0.42.1
-Flask 1.0.2
+- npm 3.5.2
+- nginx 1.12.2
+- Python 3.6.5
+- jieba 0.42.1
+- Flask 1.0.2
 
 
 ## 项目介绍
