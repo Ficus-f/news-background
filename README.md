@@ -18,8 +18,7 @@ By recommending relevant background information to users, we can help people bet
 - 对于新闻的分析，使用的是jieba分词和关键词抽取，分词的重要性是通过textrank排序；
 - 通过Flask提供接口，和前端交互数据；
 - 网页使用vue，页面上的布局和组件使用的是Element-UI组件；
-- 相关知识（知识小卡片）的内容是使用复旦大学的CN-DBpedia知识图谱；
-- 相关视频来源于B站，相关数据来源于当当。
+- 相关知识（知识小卡片）的内容是使用复旦大学的CN-DBpedia知识图谱。
 
 
 ## 项目展示
